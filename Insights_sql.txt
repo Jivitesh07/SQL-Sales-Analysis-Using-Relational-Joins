@@ -1,0 +1,7 @@
+Here are the insights based on the dataset and queries we used -
+
+1. Electronics is the highest revenue-generating category, indicating strong customer demand for technology-related products such as laptops and mobile phones.
+
+2. Several customers have never placed any orders, highlighting an opportunity for targeted marketing campaigns and customer engagement strategies.
+
+3. A small number of top-performing products contribute a large share of total revenue, suggesting the business should focus on maintaining stock and promotions for these high-demand items.
